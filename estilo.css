@@ -19,7 +19,7 @@
 
    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
    --fonte-destaque:'Bebas Neue', cursiva;
-   --fonte-Android: 'Press Start 2P', cursive;/*'Android', cursiva;*/
+   --fonte-Android: 'Android', cursiva;
 }
 *{
    margin: 0px;
